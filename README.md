@@ -1,7 +1,7 @@
 # Memory match game
 
-Flip the cards and match the tiles together in pairs.  
-Choose theme and/or ammount of paits in settings.
+Flip the cards and match the tiles together in pairs.   
+Choose theme and/or amount of pairs in settings.
 
 **Stack:** HTML, CSS, JS
 
